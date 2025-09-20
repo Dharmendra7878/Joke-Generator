@@ -1,12 +1,26 @@
-# React + Vite
+# 😂 Joke Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fun **React + Vite** project that generates random jokes at the click of a button.  
+Deployed using **GitHub Pages**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+👉 [Joke Generator Live](https://Dharmendra7878.github.io/Joke-Generator)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📌 Features
+- Generates random jokes
+- Built with **React + Vite**
+- Simple and clean UI
+- Fast and lightweight deployment with **GitHub Pages**
+
+---
+
+## 🛠️ Installation & Setup
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/Dharmendra7878/Joke-Generator.git
+   cd Joke-Generator
